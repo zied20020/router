@@ -1,0 +1,61 @@
+.add-modal{
+    background-color: rgba(184, 190, 245, 0.932);
+    text-align: center !important;
+    border: rgb(1, 49, 63) solid 5px;
+    border-radius: 25px;
+    width: 30%;
+    height: 70%;
+    margin-left: 35%;
+}
+.Add-btn-container{
+    text-align: center;
+    margin-top: 2%;
+}
+.search-container{
+    margin-top: 0.5%;
+    display: flex;
+    justify-content: space-between;
+
+}
+body{
+    background-image: url("hh.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Add-btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .boo{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .booo{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+    position: sticky;
+    top: 0;
+  }
+  
+  .cophoto{
+      max-width: 50%;
+  }
